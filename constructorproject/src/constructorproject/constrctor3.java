@@ -14,6 +14,11 @@ public static void 	constrctor3(int a,int b,int c)
 	{
 		System.out.println("jay");
 	}
+	
+	constrctor3(int r, int r)
+	{
+		System.out.println("jay");
+	}
 	constrctor3 (int g, char t)
 	{
 		a = 44;
